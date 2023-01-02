@@ -9,11 +9,16 @@ I am a wheelchair-bound Tetraplegic and love everything to do with technology an
 
 # 📊 My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Quadrob&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Quadrob&theme=react&hide_border=true)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Quadrob&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quadrob&theme=react)<br/>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Quadrob&theme=react)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Quadrob&theme=react)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Quadrob&theme=dracula)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Quadrob&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
