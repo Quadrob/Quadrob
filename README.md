@@ -35,19 +35,19 @@ I am a wheelchair-bound Tetraplegic and love everything to do with technology an
 
 # 📊 My GitHub Stats:
 <p align="center">
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quadrob&theme=dracula" width="800"> <br/>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quadrob&theme=dracula" width="600"> <br/>
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Quadrob&theme=dracula" width="400"> <br/>
-	<img src="https://github-readme-stats.vercel.app/api?username=Quadrob&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="500"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Quadrob&theme=dracula&hide_border=true" width="500">
+	<img src="https://github-readme-stats.vercel.app/api?username=Quadrob&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="400"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Quadrob&theme=dracula&hide_border=true" width="400">
 </p>
 
 
 ## 📚 Top Repositories
 <p align="center">
 	<a href="https://github.com/Quadrob/F1-Prediction">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Quadrob&repo=F1-Prediction&hide_border=true&theme=dracula" width="500"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Quadrob&repo=F1-Prediction&hide_border=true&theme=dracula" width="400"/>
 	</a>
 	<a href="https://github.com/Quadrob/Tappy-Fish">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Quadrob&repo=Tappy-Fish&hide_border=true&theme=dracula" width="500"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Quadrob&repo=Tappy-Fish&hide_border=true&theme=dracula" width="400"/>
 	</a>
 </p>
 
