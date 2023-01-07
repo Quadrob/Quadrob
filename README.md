@@ -2,7 +2,7 @@
 
 ---
 
-# 💫 About Me:
+# 🤓 About Me:
 I am a wheelchair-bound Tetraplegic and love everything to do with technology and growing my knowledge. I am a BSc Computer Science graduate possessing 2+ years of experience in software engineering and development. I'm currently employed at an automation company working with various tech stacks and software applications in different stages of the development life cycle.
 
 <p align="center">
@@ -38,15 +38,23 @@ I am a wheelchair-bound Tetraplegic and love everything to do with technology an
 # 📊 My GitHub Stats:
 <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quadrob&theme=dracula"> <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Quadrob&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quadrob&theme=dracula&hide_border=true"> <br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Quadrob&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quadrob&theme=dracula&hide_border=true"> <br/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Quadrob&theme=dracula">
 </p>
+
+
+## 📚 Top Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Quadrob&repo=F1-Prediction&hide_border=true&theme=dracula)](https://github.com/Quadrob/F1-Prediction) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Quadrob&repo=Tappy-Fish&hide_border=true&theme=dracula)](https://github.com/Quadrob/Tappy-Fish)
 
 ## 🏆 GitHub Trophies
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Quadrob&theme=dracula&no-frame=true&no-bg=false&margin-w=25&margin-h=10">
 </p>
+
+## 📈 Dooboo lab's github stats
+<a href="https://app.dooboo.io/Quadrob">
+	<img src="https://server.dooboo.io/github-stats/Quadrob" width="800" />
+</a>
 
 ## ✍️ Random Dev Quote
 <p align="center">
