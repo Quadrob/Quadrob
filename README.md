@@ -1,3 +1,7 @@
+<h2 align="center">👋 Hello World! I'm Robert.</h2>
+
+---
+
 # 💫 About Me:
 I am a wheelchair-bound Tetraplegic and love everything to do with technology and growing my knowledge. I am a BSc Computer Science graduate possessing 2+ years of experience in software engineering and development. I'm currently employed at an automation company working with various tech stacks and software applications in different stages of the development life cycle.
 
@@ -13,10 +17,18 @@ I am a wheelchair-bound Tetraplegic and love everything to do with technology an
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
     </a> <a href="mailto:robertbots@gmail.com">
         <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-    </a> <a href="">
+    </a> <a href="https://github.com/Quadrob/Quadrob/raw/main/CV-12-2022.pdf">
         <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
     </a> <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=Quadrob&label=Profile%20Views&color=6&icon=0&pretty=true" />
+      <img alt="visitors" src="https://visitcount.itsvg.in/api?id=Quadrob&label=Profile%20Views&color=6&icon=0&pretty=true" />
+    </a> 
+	<img alt="Stars" src="https://img.shields.io/github/stars/Quadrob/Quadrob?style=flat-square&labelColor=343b41"/> 
+	<img alt="Forks" src="https://img.shields.io/github/forks/Quadrob/Quadrob?style=flat-square&labelColor=343b41"/>
+</p>
+
+<p align="center">
+    <a href="https://github.com/Quadrob?tab=followers">
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Quadrob?color=236ad3&&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
 </p>
 
@@ -25,32 +37,20 @@ I am a wheelchair-bound Tetraplegic and love everything to do with technology an
 
 # 📊 My GitHub Stats:
 <p align="center">
-    <a href="">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quadrob&theme=dracula">
-    </a> <br/>
-    <a href="">
-        <img src="https://github-readme-stats.vercel.app/api?username=Quadrob&theme=dracula&hide_border=true&include_all_commits=true&count_private=true">
-    </a> <br/>
-    <a href="">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quadrob&theme=dracula&hide_border=true">
-    </a> <br/>
-    <a href="">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Quadrob&theme=dracula">
-    </a>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quadrob&theme=dracula"> <br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Quadrob&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quadrob&theme=dracula&hide_border=true"> <br/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Quadrob&theme=dracula">
 </p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-    <a href="">
-        <img src="https://github-profile-trophy.vercel.app/?username=Quadrob&theme=dracula&no-frame=true&no-bg=false&margin-w=25&margin-h=10">
-    </a>
+    <img src="https://github-profile-trophy.vercel.app/?username=Quadrob&theme=dracula&no-frame=true&no-bg=false&margin-w=25&margin-h=10">
 </p>
 
 ## ✍️ Random Dev Quote
 <p align="center">
-    <a href="">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-    </a>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </p>
  
 ---
