@@ -58,6 +58,9 @@ I am a wheelchair-bound Tetraplegic and love everything to do with technology an
     <img src="https://github-profile-trophy.vercel.app/?username=Quadrob&theme=dracula&no-frame=true&no-bg=false&margin-w=25&margin-h=10">
 </p>
 
+## 🏅 My Holopin Badges 
+[![An image of @quadrob's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/quadrob)](https://holopin.io/@quadrob)
+
 ## 📈 Dooboo lab's github stats
 <p align="center">
 	<a href="https://app.dooboo.io/Quadrob">
