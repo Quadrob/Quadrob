@@ -30,9 +30,17 @@ I am a wheelchair-bound Tetraplegic and love everything to do with technology an
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Quadrob&theme=dracula)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Quadrob&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+<p align="center">
+    <a href="">
+        <img src="https://github-profile-trophy.vercel.app/?username=Quadrob&theme=dracula&no-frame=true&no-bg=false&margin-w=6">
+    </a>
+</p>
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+    <a href="">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+    </a>
+</p>
  
 ---
