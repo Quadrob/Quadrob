@@ -1,18 +1,23 @@
 # 💫 About Me:
-<p align="center">
 I am a wheelchair-bound Tetraplegic and love everything to do with technology and growing my knowledge. I am a BSc Computer Science graduate possessing 2+ years of experience in software engineering and development. I'm currently employed at an automation company working with various tech stacks and software applications in different stages of the development life cycle.
-<a href="https://github.com/Quadrob">
-    <img src="https://github-stats-alpha.vercel.app/api?username=Quadrob&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
+
+<p align="center">
+    <a href="https://github.com/Quadrob">
+        <img src="https://github-stats-alpha.vercel.app/api?username=Quadrob&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    </a>
 </p>
 
 ## 🌐 My Details:
 <p align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robert-zeelie) <a href="mailto:robertbots@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a> <a href="">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
-</a> [![](https://visitcount.itsvg.in/api?id=Quadrob&icon=1&color=1)](https://visitcount.itsvg.in)
+    <a href="https://linkedin.com/in/robert-zeelie">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+    </a> <a href="mailto:robertbots@gmail.com">
+        <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+    </a> <a href="">
+        <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+    </a> <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=Quadrob&icon=1&color=1">
+    </a>
 </p>
 
 # 💻 Tech Stack:
