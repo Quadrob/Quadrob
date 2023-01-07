@@ -7,7 +7,7 @@ I am a wheelchair-bound Tetraplegic and love everything to do with technology an
 
 <p align="center">
     <a href="https://github.com/Quadrob">
-        <img src="https://github-stats-alpha.vercel.app/api?username=Quadrob&cc=22272e&tc=37BCF6&ic=fff&bc=0000" width="500">
+        <img src="https://github-stats-alpha.vercel.app/api?username=Quadrob&cc=22272e&tc=37BCF6&ic=fff&bc=0000" width="600">
     </a>
 </p>
 
@@ -35,7 +35,7 @@ I am a wheelchair-bound Tetraplegic and love everything to do with technology an
 
 # 📊 My GitHub Stats:
 <p align="center">
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quadrob&theme=dracula" width="600"> <br/>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quadrob&theme=dracula" width="700"> <br/>
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Quadrob&theme=dracula" width="400"> <br/>
 	<img src="https://github-readme-stats.vercel.app/api?username=Quadrob&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="400"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Quadrob&theme=dracula&hide_border=true" width="400">
 </p>
