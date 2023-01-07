@@ -21,9 +21,7 @@ I am a wheelchair-bound Tetraplegic and love everything to do with technology an
         <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
     </a> <a href="https://visitcount.itsvg.in">
       <img alt="visitors" src="https://visitcount.itsvg.in/api?id=Quadrob&label=Profile%20Views&color=6&icon=0&pretty=true" />
-    </a> 
-	<img alt="Stars" src="https://img.shields.io/github/stars/Quadrob/Quadrob?style=flat-square&labelColor=343b41"/> 
-	<img alt="Forks" src="https://img.shields.io/github/forks/Quadrob/Quadrob?style=flat-square&labelColor=343b41"/>
+    </a>
 </p>
 
 <p align="center">
