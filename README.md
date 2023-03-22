@@ -55,7 +55,7 @@ I am a wheelchair-bound Tetraplegic and love everything to do with technology an
 ## 📈 Dooboo lab's github stats
 <p align="center">
 	<a href="https://app.dooboo.io/Quadrob">
-		<img src="https://server.dooboo.io/github-stats/Quadrob" width="700"/>
+		<img src="https://stats.hyochan.dev/api/github-stats-advanced?login=quadrob" width="700"/>
 	</a>
 </p>
 
