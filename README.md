@@ -11,9 +11,10 @@ I am a wheelchair-bound Tetraplegic and love everything to do with technology an
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
     </a> <a href="mailto:robertbots@gmail.com">
         <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-    </a> <a href="https://github.com/Quadrob/Quadrob/raw/main/Robert-Zeelie-CV-12-2022.pdf">
-        <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
     </a> 
+<!--     <a href="https://github.com/Quadrob/Quadrob/raw/main/Robert-Zeelie-CV-12-2022.pdf">
+        <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+    </a>  -->
 <!--     <a href="https://visitcount.itsvg.in">
       <img alt="visitors" src="https://visitcount.itsvg.in/api?id=Quadrob&label=Profile%20Views&color=6&icon=0&pretty=true" />
     </a> -->
