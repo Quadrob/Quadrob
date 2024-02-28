@@ -66,7 +66,7 @@ I am a wheelchair-bound Tetraplegic and love everything to do with technology an
 ## 📈 Daily.dev Card
 <p align="center">
 	<a href="https://app.daily.dev/robertzeelie">
-		<img src="./devcard.png" width="652" alt="Robert Zeelie's Dev Card"/>
+		<img src="https://api.daily.dev/devcards/v2/Eb5fCYracs4I0eQUJw8oW.png?type=wide&r=xwa" width="652" alt="Robert Zeelie's Dev Card"/>
 	</a>
 </p>
 
