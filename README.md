@@ -36,6 +36,7 @@ I am a wheelchair-bound Tetraplegic and love everything to do with technology an
 	<img src="https://github-readme-stats.vercel.app/api?username=Quadrob&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="500">
 </p>
 
+<!--
 ## 📚 Top Repositories
 <p align="center">
 	<a href="https://github.com/Quadrob/F1-Prediction">
@@ -54,7 +55,6 @@ I am a wheelchair-bound Tetraplegic and love everything to do with technology an
 ## 🏅 My Holopin Badges 
 [![An image of @quadrob's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/quadrob)](https://holopin.io/@quadrob)
 
-<!--
 ## 📈 Dooboo lab's github stats
 <p align="center">
 	<a href="https://app.dooboo.io/Quadrob">
