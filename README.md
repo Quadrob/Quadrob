@@ -33,7 +33,7 @@ I am a wheelchair-bound Tetraplegic and love everything to do with technology an
 <p align="center">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quadrob&theme=dracula" width="700"> <br/>
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Quadrob&theme=dracula" width="400"> <br/>
-	<img src="https://github-readme-stats.vercel.app/api?username=Quadrob&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="500">
+	<!--<img src="https://github-readme-stats.vercel.app/api?username=Quadrob&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="500">-->
 </p>
 
 <!--
